@@ -11,10 +11,10 @@
 
 ******************************************************************************************************************************************************************
 
-Chocolate Business Report Dashboard
+# Chocolate Business Report Dashboard
 This dashboard provides a comprehensive overview of the chocolate business's performance, offering insights into sales trends, product popularity, geographical distribution, and individual sales person contributions.
 
-Key Features
+# Key Features
 1. Overall Performance Metrics
 Product-based Metrics
 Date Filter
